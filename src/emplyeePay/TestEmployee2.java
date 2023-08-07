@@ -29,6 +29,7 @@ public class TestEmployee2 {
          String err = ""; // 사원 근무 유형 오류
          
          
+         
          if(ki == 1) {
             System.out.print("직책, 월 임금… ");
             de = in.next();
